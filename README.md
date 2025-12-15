@@ -1,4 +1,4 @@
-# Driver-Speed-Distance-Using-K-Means-Clustering
+# Driver_behaviour-K_Means_Clustering
 
 ## Project Overview
 This project applies **K-Means Clustering**, an unsupervised machine learning algorithm, to analyze driver behavior based on their **speed** and **distance** features. By clustering drivers into distinct groups, we can better understand driving patterns, evaluate safety risks, and identify outliers.
